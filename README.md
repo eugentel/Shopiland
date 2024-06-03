@@ -1,2 +1,2 @@
 # Shopiland
-Testing shopiland.ru
+Тестирование сайта shopiland.ru
